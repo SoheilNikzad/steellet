@@ -1,0 +1,10 @@
+{
+  "name": "Steellet Offline Seed Tool",
+  "short_name": "Steellet",
+  "description": "Local-only BIP39 conversion and Steellet 16 × 16 assembly mapping.",
+  "start_url": "/tool",
+  "display": "standalone",
+  "background_color": "#171b20",
+  "theme_color": "#171b20",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
