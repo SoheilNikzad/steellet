@@ -12,4 +12,3 @@ The site is ready for Cloudflare Pages:
 - Build output directory: `public`
 
 All site routes and assets are self-contained under `public/`.
-
